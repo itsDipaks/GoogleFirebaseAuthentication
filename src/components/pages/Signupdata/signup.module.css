@@ -1,0 +1,31 @@
+/* ...........Main Login ................. */
+
+.mainsignup{
+
+}
+
+
+
+
+
+
+
+.mainsignup>:nth-child(1){
+  width: 42%;
+  position: fixed;
+}
+.mainsignup>:nth-child(2){
+  width: 58%;
+  position: absolute;
+  left: 42%
+}
+
+
+
+
+
+
+
+
+
+
